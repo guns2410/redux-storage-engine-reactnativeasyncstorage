@@ -1,6 +1,6 @@
 {
   "name": "redux-storage-engine-reactnativeasyncstorage",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "react-native/AsyncStorage based engine for redux-storage",
   "main": "build/index.js",
   "scripts": {
@@ -43,6 +43,6 @@
     "release-it": "^2.3.1"
   },
   "dependencies": {
-    "@react-native-community/async-storage": "^1.4.0"
+    "@react-native-async-storage/async-storage": "^1.15.4"
   }
 }
